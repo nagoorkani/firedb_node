@@ -6,7 +6,139 @@ export const productsData = [
     description: 'This is TMT murrukku kambi',
     image: 'url....',
     categoryId: 'cat-001',
-    variants: [
+    variant: [
+      {
+        size: '8 mm',
+        price: 70,
+        weight: '2.5kg',
+      },
+      {
+        size: '10 mm',
+        price: 69,
+        weight: '3.5kg',
+      },
+      {
+        size: '12 mm',
+        price: 69,
+        weight: '4.5kg',
+      },
+      {
+        size: '16 mm',
+        price: 69,
+        weight: '10kg',
+      },
+    ],
+    fields: [
+      {
+        name: 'Field 1',
+        value: '...',
+      },
+      {
+        name: 'Field 2',
+        value: '...',
+      },
+      {
+        name: 'Field 3',
+        value: '...',
+      },
+    ],
+  },
+  {
+    name: 'TMT 500D',
+    price: 68,
+    category: 'TMT',
+    description: 'This is TMT 500 D murrukku kambi',
+    image: 'url....',
+    categoryId: 'cat-001',
+    variant: [
+      {
+        size: '8 mm',
+        price: 70,
+        weight: '2.5kg',
+      },
+      {
+        size: '10 mm',
+        price: 69,
+        weight: '3.5kg',
+      },
+      {
+        size: '12 mm',
+        price: 69,
+        weight: '4.5kg',
+      },
+      {
+        size: '16 mm',
+        price: 69,
+        weight: '10kg',
+      },
+    ],
+    fields: [
+      {
+        name: 'Field 1',
+        value: '...',
+      },
+      {
+        name: 'Field 2',
+        value: '...',
+      },
+      {
+        name: 'Field 3',
+        value: '...',
+      },
+    ],
+  },
+  {
+    name: 'TMT 550',
+    price: 69,
+    category: 'TMT',
+    description: 'This is TMT 550 murrukku kambi',
+    image: 'url....',
+    categoryId: 'cat-001',
+    variant: [
+      {
+        size: '8 mm',
+        price: 70,
+        weight: '2.5kg',
+      },
+      {
+        size: '10 mm',
+        price: 69,
+        weight: '3.5kg',
+      },
+      {
+        size: '12 mm',
+        price: 69,
+        weight: '4.5kg',
+      },
+      {
+        size: '16 mm',
+        price: 69,
+        weight: '10kg',
+      },
+    ],
+    fields: [
+      {
+        name: 'Field 1',
+        value: '...',
+      },
+      {
+        name: 'Field 2',
+        value: '...',
+      },
+      {
+        name: 'Field 3',
+        value: '...',
+      },
+    ],
+  },
+  {
+    name: 'TMT 550D',
+    price: 69,
+    category: 'TMT',
+    description: 'This is TMT 550D murrukku kambi',
+    image: 'url....',
+    categoryId: 'cat-001',
+    variant: [
       {
         size: '8 mm',
         price: 70,
