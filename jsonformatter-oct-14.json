@@ -1,0 +1,100 @@
+[
+  {
+    "name": "TMT 500",
+    "price": 69,
+    "category": "TMT",
+    "description": "This is TMT murrukku kambi",
+    "image": "url....",
+    "categoryId": "cat-001",
+    "variants": [
+      {
+        "size": "8 mm",
+        "price": 70,
+        "weight": "2.5kg"
+      },
+      {
+        "size": "10 mm",
+        "price": 69,
+        "weight": "3.5kg"
+      },
+      {
+        "size": "12 mm",
+        "price": 69,
+        "weight": "4.5kg"
+      },
+      {
+        "size": "16 mm",
+        "price": 69,
+        "weight": "10kg"
+      }
+    ],
+    "fields": [
+      {
+        "name": "Field 1",
+        "value": "..."
+      },
+      {
+        "name": "Field 2",
+        "value": "..."
+      },
+      {
+        "name": "Field 3",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "Ramco Grade A",
+    "price": 300,
+    "category": "Cement",
+    "categoryId": "cat-003",
+    "description": "Grade A cement",
+    "image": "url....",
+    "fields": [
+      {
+        "name": "bag",
+        "value": "25kg"
+      },
+      {
+        "name": "brand/seller",
+        "value": "AJS"
+      }
+    ]
+  },
+  {
+    "name": "Chamber Brick",
+    "price": 12,
+    "category": "Bricks",
+    "categoryId": "cat-002",
+    "description": "Hand made and heated in fire caol",
+    "image": "url....",
+    "fields": [
+      {
+        "name": "size",
+        "value": "9x2x5"
+      },
+      {
+        "name": "unit",
+        "value": "mm"
+      }
+    ]
+  },
+  {
+    "name": "ISI Pipes 200",
+    "price": 188,
+    "category": "Pipes",
+    "categoryId": "cat-004",
+    "description": "Pipes 200 ISI certified",
+    "image": "url....",
+    "fields": [
+      {
+        "name": "size",
+        "value": "inch"
+      },
+      {
+        "name": "weight",
+        "value": "10kg"
+      }
+    ]
+  }
+]
